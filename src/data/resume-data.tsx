@@ -11,7 +11,7 @@ export const RESUME_DATA = {
   summary: (
     <>
       Hello! My name is Azim, and I am a Ruby on Rails Developer. I am currently working on consultancy and outsource projects. I truly enjoy developing open-source applications. I have been professionally developing full-stack web applications for 3 years using Ruby on Rails and Hotwire.
-      I am highly skilled in deploying, managing, and scaling applications on Heroku, ensuring projects are launched smoothly and efficiently by leveraging Heroku's full potential.
+      I am highly skilled in deploying, managing, and scaling applications on Heroku, ensuring projects are launched smoothly and efficiently by leveraging Heroku full potential.
       In addition, I have experience in developing Turbo Native applications for both iOS and Android. This allows me to seamlessly integrate web applications with mobile devices in a performant and responsive manner, delivering a fluid user experience across platforms.
     </>
   ),
