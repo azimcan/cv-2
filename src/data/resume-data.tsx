@@ -18,10 +18,10 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/22501896?v=4",
   personalWebsiteUrl: "https://azimcankuruca.com",
   contact: {
-    // email: "",
-    // tel: "",
-    email: "azimcankuruca@gmail.com",
-    tel: "+905453772812",
+    email: "",
+    tel: "",
+    // email: "azimcankuruca@gmail.com",
+    // tel: "+905453772812",
     social: [
       {
         name: "GitHub",
